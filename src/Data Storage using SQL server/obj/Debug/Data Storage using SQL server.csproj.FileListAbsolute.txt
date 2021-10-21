@@ -1,0 +1,35 @@
+Z:\ERP Beta\WPF SQL server Connection\src\Data Storage using SQL server\bin\Debug\Data Storage using SQL server.exe.config
+Z:\ERP Beta\WPF SQL server Connection\src\Data Storage using SQL server\bin\Debug\Data Storage using SQL server.exe
+Z:\ERP Beta\WPF SQL server Connection\src\Data Storage using SQL server\bin\Debug\Data Storage using SQL server.pdb
+Z:\ERP Beta\WPF SQL server Connection\src\Data Storage using SQL server\obj\Debug\Data Storage using SQL server.csproj.AssemblyReference.cache
+Z:\ERP Beta\WPF SQL server Connection\src\Data Storage using SQL server\obj\Debug\MainWindow.g.cs
+Z:\ERP Beta\WPF SQL server Connection\src\Data Storage using SQL server\obj\Debug\Views\HomePage.g.cs
+Z:\ERP Beta\WPF SQL server Connection\src\Data Storage using SQL server\obj\Debug\App.g.cs
+Z:\ERP Beta\WPF SQL server Connection\src\Data Storage using SQL server\obj\Debug\Data Storage using SQL server_MarkupCompile.cache
+Z:\ERP Beta\WPF SQL server Connection\src\Data Storage using SQL server\obj\Debug\Data Storage using SQL server_MarkupCompile.lref
+Z:\ERP Beta\WPF SQL server Connection\src\Data Storage using SQL server\obj\Debug\MainWindow.baml
+Z:\ERP Beta\WPF SQL server Connection\src\Data Storage using SQL server\obj\Debug\Views\HomePage.baml
+Z:\ERP Beta\WPF SQL server Connection\src\Data Storage using SQL server\obj\Debug\Data Storage using SQL server.g.resources
+Z:\ERP Beta\WPF SQL server Connection\src\Data Storage using SQL server\obj\Debug\Data_Storage_using_SQL_server.Properties.Resources.resources
+Z:\ERP Beta\WPF SQL server Connection\src\Data Storage using SQL server\obj\Debug\Data Storage using SQL server.csproj.GenerateResource.cache
+Z:\ERP Beta\WPF SQL server Connection\src\Data Storage using SQL server\obj\Debug\Data Storage using SQL server.csproj.CoreCompileInputs.cache
+Z:\ERP Beta\WPF SQL server Connection\src\Data Storage using SQL server\obj\Debug\Data Storage using SQL server.exe
+Z:\ERP Beta\WPF SQL server Connection\src\Data Storage using SQL server\obj\Debug\Data Storage using SQL server.pdb
+D:\src\Data Storage using SQL server\bin\Debug\Data Storage using SQL server.exe.config
+D:\src\Data Storage using SQL server\bin\Debug\Data Storage using SQL server.exe
+D:\src\Data Storage using SQL server\bin\Debug\Data Storage using SQL server.pdb
+D:\src\Data Storage using SQL server\obj\Debug\Data Storage using SQL server.csproj.AssemblyReference.cache
+D:\src\Data Storage using SQL server\obj\Debug\Views\HomePage.g.cs
+D:\src\Data Storage using SQL server\obj\Debug\App.g.cs
+D:\src\Data Storage using SQL server\obj\Debug\Data Storage using SQL server_MarkupCompile.cache
+D:\src\Data Storage using SQL server\obj\Debug\Data Storage using SQL server_MarkupCompile.lref
+D:\src\Data Storage using SQL server\obj\Debug\Views\HomePage.baml
+D:\src\Data Storage using SQL server\obj\Debug\Data Storage using SQL server.g.resources
+D:\src\Data Storage using SQL server\obj\Debug\Data_Storage_using_SQL_server.Properties.Resources.resources
+D:\src\Data Storage using SQL server\obj\Debug\Data Storage using SQL server.csproj.GenerateResource.cache
+D:\src\Data Storage using SQL server\obj\Debug\Data Storage using SQL server.csproj.CoreCompileInputs.cache
+D:\src\Data Storage using SQL server\obj\Debug\Data Storage using SQL server.exe
+D:\src\Data Storage using SQL server\obj\Debug\Data Storage using SQL server.pdb
+D:\src\Data Storage using SQL server\obj\Debug\Data_Storage_using_SQL_server.Views.AboutPage.resources
+D:\src\Data Storage using SQL server\obj\Debug\MainWindow.g.cs
+D:\src\Data Storage using SQL server\obj\Debug\MainWindow.baml
